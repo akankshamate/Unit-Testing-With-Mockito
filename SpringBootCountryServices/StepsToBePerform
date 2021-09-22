@@ -1,0 +1,9 @@
+1.Create a database and table
+
+2.Add Jpa dependency and mysql connector dependencies in pom.xml
+
+3.Add mysql properties in application.properties file
+
+4.Create Bean/Entity class(reflect the table in the database)
+
+5.Create Repository interface
